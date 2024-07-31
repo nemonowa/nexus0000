@@ -1,0 +1,276 @@
+[15:05:38] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[15:05:38] [Server thread/INFO]: Loading properties
+[15:05:38] [Server thread/INFO]: Default game type: ADVENTURE
+[15:05:38] [Server thread/INFO]: This server is running Paper version git-Paper-918 (MC: 1.10.2) (Implementing API version 1.10.2-R0.1-SNAPSHOT)
+[15:05:38] [Server thread/INFO]: Debug logging is disabled
+[15:05:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[15:05:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:05:38] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[15:05:38] [Server thread/INFO]: Generating keypair
+[15:05:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:05:38] [Server thread/INFO]: Using default channel type
+[15:05:38] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[15:05:38] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:05:38] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.27.0
+[15:05:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:05:38] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:05:38] [Server thread/INFO]: Preparing level "world"
+[15:05:38] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:05:38] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:05:38] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:05:38] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:05:38] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:05:38] [Server thread/INFO]: Mob Spawn Range: 4
+[15:05:38] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:05:38] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:05:38] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:05:38] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:05:38] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:05:38] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:05:38] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:05:38] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:05:38] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:05:38] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:05:38] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:05:38] [Server thread/INFO]: Structure Info Saving: true
+[15:05:38] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:05:38] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:05:38] [Server thread/INFO]: Random Lighting Updates: false
+[15:05:38] [Server thread/INFO]: Max Entity Collisions: 8
+[15:05:38] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:05:38] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:05:38] [Server thread/INFO]: Max TNT Explosions: 100
+[15:05:38] [Server thread/INFO]: View Distance: 10
+[15:05:38] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:05:38] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:05:38] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:05:38] [Server thread/INFO]: Preparing start region for level 0 (Seed: 2147483648)
+[15:05:38] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.27.0
+[15:05:38] [Server thread/INFO]: Done (0.282s)! For help, type "help" or "?"
+[15:05:38] [Server thread/INFO]: Timings Reset
+[15:05:39] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[15:05:40] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[15:05:40] [pool-7-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (6405e850eea61a4b9bf4f0d0cbb80fe20b3cfb90)
+[15:05:41] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] 見つかったサーバー G:C.O. LAB(1066668454192623636)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:一般(1066668454653984768)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:めも(1070588466989125722)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:進捗どうですか(1070819636771299459)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:制作理念(1090114128804315146)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:todo(1096234853483151361)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:支援(1107965458172346408)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:tip(1093335990103445594)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:世界観(1070774839557754921)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:テクスチャメモ(1085592990820614264)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:商人図鑑(1078604351012093982)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:分類-レアリティ(1066671688894402640)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:施設(1066689602544467979)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ステータス(1066681181963292722)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:進捗表示(1069305793092014250)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:武器(1066673544202829855)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:道具(1066695650038788136)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:特殊(1073219716748943360)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:食べ物(1066670142194471052)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:gitlog(1253389552194949273)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:マイスター（称号）(1066677546298642432)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:パッシブスキル(1066679443747246090)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:スキルについて(1066680112059256952)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:スキル原案(1069110301372469340)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ワールド(1073140215625043998)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:デタパ(1073662555546980352)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:テクスチャ(1074722487067218030)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] 見つかったサーバー G:TUSB NEO(802086247291158538)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:祝砲！ウェルクリ(802086585327681606)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?｜乗艦の掟(881991499204690000)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?｜よくある質問(865693171367018496)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ロール管理場所(802094641213997066)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:応接カウンター(967525907420037130)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:宣戦布告！(802086696413167676)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?｜艦内連絡網(802087788290768897)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:マルチ招兵場所(915413743683399740)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:全データ更新履歴(921738957799166002)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?｜配布場所(802087905358643270)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:雑談｜フリー(994574179938607104)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:雑談｜火薬庫(843448785866326026)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:雑談｜tusbneo(802086247291158541)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:雑談｜無印tusb(802098507858968607)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?質問・バグ報告所(880121428979105803)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:コマンド相談質問部屋(860823332235640842)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:テクスチャ画家の部屋(860823371860017152)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:建築士の部屋(860823282596315166)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:rta競技場(881037484144865300)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:つすぶアンケートすれ(924922209762422815)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?｜動画置き場(833276645854019595)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:副長の通信室(803241076662992896)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:vc1｜第一砲塔室(804319610299744256)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:vc2｜第二砲塔室(938005693544411146)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:特設｜鯖連携(977800212800208946)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?｜攻略の流れ(1238049044920799242)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:システムデータ(1027717013155627079)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:職業データ(818924903461683210)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:モンスターデータ(1027871557328048219)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:アイテムデータ(802141040650747954)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:交易データ(921094162256891905)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:超作業台レシピ(802087478739468298)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:テキストデータ(963968095024717904)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:有益なデータ(1027861429434466304)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:サムネとか記念写真(829791113065267221)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?｜歴代制覇者記念館(802087388914253824)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?フレーム一覧(802608131225944165)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:異常世界(903544623455174657)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:地下世界(903545208141139998)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ネザー／アスレ(903544883590070273)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:煉獄(903545175975014501)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ガリバーランド(903545238440788018)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:テーブルマウンテン(903545266706214942)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:クラウディア(903545296326369320)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:羊毛世界(994219632502259772)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:大図書館(903545676720406538)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:トカルトコルデ(903545326122725417)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:デイドラ城(903546564302221373)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:悪夢世界(903545723310710784)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:エンド(903545790532837426)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:亜空間(903545850502995998)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:概要(903639921380716624)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?｜創作ハブ(834276596089225236)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?艦のロール詳記(921035091231252510)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?自己紹介(940755455775490088)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:サロン(967592453290991686)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:neo設定集(928357191767978024)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:tusb設定集(941975470671527977)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:創作mob工廠(932827296916725770)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:クロスオーバーカフェテリア(921038395780780052)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ロストナンバー(929216524131110932)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:非日常世界の冒険記録集(998067255285923870)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:とある艦員達の日記(1008185459928731739)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:botのコマンド一覧(930283143603322901)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ノベルシナリオ対応作品(1249554214024384575)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:副長が可愛い！(922152632355799100)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?｜統合制作会議室(991304108755669013)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?｜統合作戦会議室(939196606375424100)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:二等兵の部屋(1001345880026267648)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:一等兵の部屋(921127551697580042)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:上等兵の部屋(882251159690178652)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:軍曹の部屋(865706819213197322)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:少尉の部屋(820634199898718229)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:中尉の部屋(896295083417165884)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:エウさん直轄-pts(833691790485356554)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:大尉の部屋(1001347035854819369)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:技術部の部屋(820628772272209972)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:大佐の部屋(858270321920442388)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ぷりんさん直轄-羊毛世界(991310945076908082)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:製作者の茶室(833230160836558888)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:猫とお酒と白熊と(802128715533778954)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ちかさん直轄-地下世界(945263153636335636)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ブラさん直轄-悪魔世界(810178685327507496)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:るーさん直轄-大図書館(810178805515288646)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:艦長室(820627943042318336)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?保管庫(1002167021821239407)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?｜告知チャンネル(967183185026887741)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:??仮設キャンプ(843438353554210816)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:miq日記(999757125247041607)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:艦の創作設定集(989510925415505960)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:艦の創作物語(991574151540260874)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:深海の光より(993503928501153822)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:グランツィル手記(1011976241089360025)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:betterfly(932971027489783848)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:トカルト設定物語【本家】(959095134211956776)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:年末マルチ特設デッキ(1188837873433202820)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:雑談｜創作tusb(998122696082726922)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:他サーバー連携(924182775068766249)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:４｜グローバルスペース(1000105380468240434)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:動画でお借りしている素材(970659350106505256)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:mod雑談(916580532672933938)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:道場(903545557560209458)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:盟友の部屋(1000035927642615809)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:敵スキル(872433472759799818)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ワールド変更点(881513489292734524)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:嫌な予感(880863889938587728)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ダンジョン情報(802128482749775902)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:スタンプ画像等(969816953839570954)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:botお知らせ(935155544874971148)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:旧・盟友の部屋(820634459417214998)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:嫌な予感(842681580363186186)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0034(1028672458481479690)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0043(1059304867186872351)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-村人復元(1063694062269505566)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0046(1064906861905723453)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0058(1186834401770881056)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0059(1189937504787382384)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0061(1197794685998084137)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0062(1198004934675812442)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0064(1201866127991648297)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0060(1195194009686130738)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0063(1201727827670749225)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0065(1215944082484891761)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0066(1220741813032194049)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:１｜メインロビー(802128765424631808)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0067(1231229740774592612)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0069(1238762725048455258)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:きりたんが思春期(940844322356592680)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?｜航海の掟(1001148089689702561)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:mob情報(802128365200211989)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:フレさん直轄-異空間(872455675442266142)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:旧・深海の光より(936528210659782656)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:tusbneoキャラ紹介(921039381110870096)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?執務室メンバーへ(969830320885084200)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?執務室(882191477680250880)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:執務室｜bot(940901645808721981)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:執務室｜魚拓(921050248485416980)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:隔離区画｜原子炉核爆弾倉庫(881431266833092638)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:サーバーログ(968628718962618460)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:メインログ(968631055596806154)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:メンバーログ(968631115160113192)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:テキストログ(968634220501164132)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:副長ログ(995711871896264784)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0045(1064531117555851274)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0048(1070485593093574777)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0049(1106521705347813426)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0055(1136130299013627975)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0057(1183784993605034104)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:製作関係者名簿(992303425893183539)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0068(1238171819899355269)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ticket-0070(1238880760686186497)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0071(1244599994762395708)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0072(1248503077875486781)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0074(1262328641770225788)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:?製作者さんへ(917609551358992494)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:制作方針(802129877943713814)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:製作者用tpコマンド(927872985715597343)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:to-do(802169076461207563)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:テキスト原本(802130627674767382)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:テキスト完成(802130749171957761)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:先駆者の書き置き(802151065972899870)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:新世界を作ろう(802158390343630876)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:印板を作ろう(996819248657727581)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:新アイテム(802129982025498666)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:新mob(802129952766033962)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:テクスチャ相談所(873855001896845342)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:loottable系(994980677206421576)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:mc資料(804355594591928351)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:資料室(845243221961605171)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:攻略者の感想。改善案(861068333444759572)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:アイデアメモ(930773347304898570)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:敵スキル(804395393558249492)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:コマンドメモ(992303152873361528)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:データ共有場(871978229009903647)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:悪巧みメモ(850792665980993618)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ワールドセキュリティ(880869757778292736)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:project-nowa(880873656081866812)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] コンソールフォワーディングがチャンネルに割り当てられました TC:project-nowa(880873656081866812)
+[15:05:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling voice module
+[15:05:42] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 2/2 guilds (0 cancelled)
+[15:05:47] [User Authenticator #1/INFO]: UUID of player argonaute_nemo is 00ccf23a-c844-49a8-934c-d1395cc661b6
+[15:05:47] [Server thread/INFO]: argonaute_nemo[/127.0.0.1:54461] logged in with entity id 4 at ([world]1226.9380666089673, 1.0, 1288.753883364286)
+[15:05:54] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] チャット: Discord【艦長】艦長 > お
+[15:05:56] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] チャット: Discord【艦長】艦長 > 成功
+[15:07:02] [Server thread/INFO]: argonaute_nemo lost connection: Disconnected
+[15:07:02] [Server thread/INFO]: argonaute_nemo left the game
+[15:08:08] [Server thread/INFO]: Stopping the server
+[15:08:08] [Server thread/INFO]: Stopping server
+[15:08:08] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.27.0
+[15:08:09] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] 513ミリ秒でシャットダウンしました
+[15:08:09] [Server thread/INFO]: Saving players
+[15:08:09] [Server thread/INFO]: Saving worlds
+[15:08:09] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
